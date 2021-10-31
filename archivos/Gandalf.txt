@@ -1,0 +1,10 @@
+Turismo de la Tierra Media
+
+Usuario: Gandalf
+Preferencias: PAISAJE
+
+ITINERARIO:
+Visitas: 
+	Minas Tirith
+
+Costo Total: 2.5 monedas de Oro | TiempoTotal: 5.0 horas.

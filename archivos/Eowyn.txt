@@ -1,0 +1,11 @@
+Turismo de la Tierra Media
+
+Usuario: Eowyn
+Preferencias: AVENTURA
+
+ITINERARIO:
+Visitas: 
+	Bosque Negro
+	Minas Tirith
+
+Costo Total: 6.5 monedas de Oro | TiempoTotal: 8.0 horas.

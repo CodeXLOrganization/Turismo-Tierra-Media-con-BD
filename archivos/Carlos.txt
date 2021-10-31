@@ -1,0 +1,11 @@
+Turismo de la Tierra Media
+
+Usuario: Carlos
+Preferencias: AVENTURA
+
+ITINERARIO:
+Visitas: 
+	Promocion: Bosque Negro | Mordor | 
+Costo: 5.6000000000000005 monedas de oro | Tiempo total de visitas: 28.0
+
+Costo Total: 5.6000000000000005 monedas de Oro | TiempoTotal: 28.0 horas.
